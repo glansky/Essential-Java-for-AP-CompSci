@@ -1,4 +1,23 @@
-"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=40608:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Gregory\Source\Repos\Java\essential-java-for-ap-compsci\HelloWorld\out\production\HelloWorld Main
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=45343:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Gregory\Source\Repos\Java\essential-java-for-ap-compsci\HelloWorld\out\production\HelloWorld Main
 Hello World!
+Date		Dish	Price	Count	"Tips"	Total
+31/10/22	Vine	$10.93	1		$1.00	$11.93
+==================================================
+2.3
+2,30
+2,300
+1000000
+1�000�000
+1000.2
+$1000,20
+?1�000,20
+Hello!
+|              Hello!|
+|Hello!              |
+|Hello, this is a long sentence.|
+|Hello, this is a lon|
+|Hell                |
+    Apples $1,40
+  Brownies $0,80
 
 Process finished with exit code 0
