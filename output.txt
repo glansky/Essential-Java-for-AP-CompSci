@@ -1,4 +1,4 @@
-"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=45343:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Gregory\Source\Repos\Java\essential-java-for-ap-compsci\HelloWorld\out\production\HelloWorld Main
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=51054:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Gregory\Source\Repos\Java\essential-java-for-ap-compsci\HelloWorld\out\production\HelloWorld Main
 Hello World!
 Date		Dish	Price	Count	"Tips"	Total
 31/10/22	Vine	$10.93	1		$1.00	$11.93
@@ -19,5 +19,11 @@ Hello!
 |Hell                |
     Apples $1,40
   Brownies $0,80
+Doug W. bought 5 items priced at $2,50 each
+The remainder is: 1
+The integer quotient is: 2
+The quotient is: 2,000000
+Doug Winnie
+The product of 2 and 5 is 10.
 
 Process finished with exit code 0
